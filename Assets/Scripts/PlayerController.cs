@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// simplified version of our game's player controller
 public class PlayerController : MonoBehaviour
 {
     [SerializeField] private CharacterController controller;

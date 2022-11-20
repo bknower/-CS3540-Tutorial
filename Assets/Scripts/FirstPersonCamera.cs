@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+// taken from https://www.youtube.com/watch?v=5Rq8A4H6Nzw
 public class FirstPersonCamera : MonoBehaviour
 {
 
